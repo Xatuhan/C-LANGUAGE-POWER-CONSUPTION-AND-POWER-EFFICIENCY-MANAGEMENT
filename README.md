@@ -1,4 +1,5 @@
 Power Consumption Calculator and Power Efficiency Management
+
 My software calculates power consumption by entries of your electrical devices numbers and how many hours you used it for a week.	
 When user executed program, firstly program ask you to press 1 to continue. Then you enter the Login Interface.
 In login sequence, you create your username and password. And you are ready to calculate :D.
